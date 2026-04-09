@@ -16,6 +16,10 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+          <h1>Pull Request Test</h1>
+          <p>If you see this, the pull request has been accepted and merged!</p>
+        </div>
+        <div>
           <h1>Get started</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
